@@ -1,8 +1,8 @@
-# COMP3004 Final Project – CES Device Simulator
+# CES Device Simulator
 
 ## Overview
 
-This project is a **graphical simulation of a CES (Cranial Electrotherapy Stimulation) medical device**, developed as the final project for **COMP 3004**. The system models the behavior of a real consumer medical device, including **session control, intensity adjustment, safety constraints, persistence, and user interaction through a GUI**.
+This project is a **graphical simulation of a CES (Cranial Electrotherapy Stimulation) medical device**. The system models the behavior of a real consumer medical device, including **session control, intensity adjustment, safety constraints, persistence, and user interaction through a GUI**.
 
 The application focuses on **state-based system design**, **user-driven workflows**, and **robust constraint enforcement**, ensuring that invalid or unsafe actions are prevented through software logic.
 
@@ -120,8 +120,6 @@ Simulating a medical device introduces real-world constraints where incorrect be
 ---
 
 ## Team
-
-Developed by Team 35 for **COMP 3004**
 
 * Navin Haider
 * Hassan Allam
