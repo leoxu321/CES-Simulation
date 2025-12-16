@@ -112,7 +112,7 @@ Simulating a medical device introduces real-world constraints where incorrect be
 
 ## How to Run
 
-1. Open the project in a C++ IDE (e.g., Visual Studio, CLion)
+1. Open the project in a C++ IDE (e.g., Visual Studio)
 2. Build the project using the provided configuration
 3. Run the application executable
 4. Interact with the device through the GUI
